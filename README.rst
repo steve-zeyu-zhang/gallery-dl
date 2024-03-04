@@ -7,7 +7,7 @@ Download Reels
 
 .. code:: bash
 
-    gallery-dl --cookies-from-browser firefox "https://www.instagram.com/%username%/reels/"
+    gallery-dl --cookies /mnt/12t/zhang/instagram/cookies.txt "https://www.instagram.com/<NAME>/reels/"
 
 
 *gallery-dl* is a command-line program
