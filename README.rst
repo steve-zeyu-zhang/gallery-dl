@@ -2,6 +2,12 @@
 gallery-dl
 ==========
 
+## Download Reels
+
+```
+gallery-dl --cookies-from-browser firefox "https://www.instagram.com/%username%/reels/"
+```
+
 *gallery-dl* is a command-line program
 to download image galleries and collections
 from several image hosting sites
